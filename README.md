@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Patil</h1>
-<h3 align="center">Embedded Systems Engineer | Firmware • RTOS • Microcontrollers • Automation</h3>
+<h3 align="center">Embedded Systems Engineer | Programming • Microcontrollers • HW–SW Integration • Validation • Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;Hardware+%2B+Software+Integration;RTOS+%7C+STM32+%7C+CAN+%7C+Ethernet;Building+Reliable+Real-World+Systems" />
