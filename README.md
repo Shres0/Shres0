@@ -12,14 +12,54 @@
 ---
 
 ## 👨‍💻 About Me
-I’m an **Embedded Systems Engineer** who enjoys working close to the hardware—writing **Embedded C**, understanding **microcontroller internals**, debugging at the **board level**, and validating systems end-to-end.
+I’m an **Embedded Systems Engineer** who enjoys working close to the hardware—writing codes in **Embedded C, C++, Python**, understanding **microcontroller internals**, debugging at the **board level**, automating, testing and validating systems end-to-end.
 
-I’ve worked in **production-oriented embedded environments**, contributing to firmware development, verification, issue debugging, and test automation.  
+I’ve worked in **production-oriented embedded environments**, contributing to firmware improvement and development, verification, issue debugging, and test automation.  
 I value **clean design, reliability, and ownership** over quick hacks.
 
 ---
 
 ## 🧠 Technical Stack
+<h3 align="center">🧠 Core Engineering Areas</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  <strong>Programming</strong>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  <strong>Microcontrollers • Embedded Systems</strong>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  <strong>HW–SW Integration • Automation</strong>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-blue"/>
+  <img src="https://img.shields.io/badge/Automation-green"/>
+  <img src="https://img.shields.io/badge/HW--SW%20Integration-orange"/>
+</p>
+
 **Languages:** Embedded C, C++, Python  
 **Microcontrollers:** STM32 (ARM Cortex-M), Arduino (AVR)  
 **OS:** RTOS concepts, Embedded Linux (BeagleBone Black)  
