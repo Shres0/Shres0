@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyash Patil</h1>
+<h1 align="center">Hi there<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6aa619ef-4365-4496-b359-2af4621fb449" />
+, I'm Shreyash Patil</h1>
 <h3 align="center">Embedded Systems Engineer | Programming • Microcontrollers • HW–SW Integration • Validation • Automation</h3>
 
 <p align="center">
