@@ -1,109 +1,111 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Shreyash Patil</h1>
-<h3 align="center">Embedded Systems Engineer | Programming • Microcontrollers • HW–SW Integration • Validation • Automation</h3>
-
+<!-- Embedded-Themed Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;Hardware+%2B+Software+Integration;RTOS+%7C+STM32+%7C+CAN+%7C+Ethernet;Building+Reliable+Real-World+Systems" />
+  <img src="https://www.iiitg.ac.in/department/ece/embedded-systems-laboratories" alt="Embedded Systems Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-2d4fbd4a-26e1-4e53-8cc8-0e7f6a7b6c6c.gif" width="420"/>
-</p>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Shreyash Patil
+</h1>
+
+<h3 align="center">
+Embedded Systems Engineer | Programming • Microcontrollers • HW–SW Integration • Automation
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
-I’m an **Embedded Systems Engineer** who enjoys working close to the hardware—writing codes in **Embedded C, C++, Python**, understanding **microcontroller internals**, debugging at the **board level**, automating, testing and validating systems end-to-end.
-
-I’ve worked in **production-oriented embedded environments**, contributing to firmware improvement and development, verification, issue debugging, and test automation.  
-I value **clean design, reliability, and ownership** over quick hacks.
+I’m an **Embedded Systems Engineer** who enjoys working close to the hardware—designing, integrating, and validating real-world systems.  
+My focus is on **reliable firmware**, **system-level thinking**, and **clean engineering practices** that scale from prototype to production.
 
 ---
 
-## 🧠 Technical Stack
-<h3 align="center">🧠 Core Engineering Areas</h3>
-
+## 🧠 Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="Embedded C" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" title="MATLAB" style="margin: 0 12px;"/>
 </p>
 
-<p align="center">
-  <strong>Programming</strong>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-</p>
-
-<p align="center">
-  <strong>Microcontrollers • Embedded Systems</strong>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
-
-<p align="center">
-  <strong>HW–SW Integration • Automation</strong>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-blue"/>
-  <img src="https://img.shields.io/badge/Automation-green"/>
-  <img src="https://img.shields.io/badge/HW--SW%20Integration-orange"/>
-</p>
-
-**Languages:** Embedded C, C++, Python  
-**Microcontrollers:** STM32 (ARM Cortex-M), Arduino (AVR)  
-**OS:** RTOS concepts, Embedded Linux (BeagleBone Black)  
-**Communication:** CAN, UART, SPI, I2C, Ethernet  
-**Engineering:** Firmware Development • HW–SW Integration • Debugging • Validation • Automation  
+<p align="center"><strong>Embedded C • C++ • Python • MATLAB</strong></p>
 
 ---
 
-## 🛠️ Featured Projects
-📌 *Each project here reflects real engineering problems, not toy demos.*
+## 🖥️ Operating Systems
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="Windows" style="margin: 0 12px;"/>
+</p>
 
-- 🚗 **COVAS – Collision Avoidance & Vehicle Automation (CAN)**
-- 📡 **Accident Prevention System using LiDAR**
-- 🔐 **DoorMate – IoT RFID Door Lock System**
-
-👉 Detailed READMEs inside each repository.
+<p align="center"><strong>Linux • Windows • RTOS (FreeRTOS)</strong></p>
 
 ---
 
-## 📊 GitHub Stats (Tasteful & Minimal)
+## 🔌 Microcontrollers & Architectures
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shres0&show_icons=true&hide_title=true&hide_border=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" title="Arduino / AVR" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Embedded Linux Platforms" style="margin: 0 12px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shres0&hide_border=true" />
+  <strong>
+    STM32F407 (ARM Cortex-M4) • Arduino UNO (AVR) • BeagleBone Black (ARM Cortex-A8)
+  </strong>
+</p>
+
+---
+
+## 🛠️ Tools & Software
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" title="JIRA" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="45" title="Confluence" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45" title="Vim" style="margin: 0 12px;"/>
+</p>
+
+<p align="center">
+  <strong>
+    Git • Perforce • Helix Swarm • ThinLinc • JIRA • Confluence • Visual Studio • Google Colab •
+    Proteus • Cisco Packet Tracer • Vim • CMake • Makefile • STM32CubeIDE • GUI Testing
+  </strong>
+</p>
+
+---
+
+## 🌐 Communication Protocols
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45" title="Communication Protocols" style="margin: 0 12px;"/>
+</p>
+
+<p align="center">
+  <strong>UART • I2C • SPI • CAN • Ethernet • HTTP • MQTT • CoAP</strong>
+</p>
+
+---
+
+<!-- Subtle Embedded Animation (SECOND & LAST GIF) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/processor.gif" 
+    width="180" 
+    title="Embedded Processor"
+  />
 </p>
 
 ---
 
 ## 📚 Currently Learning
-- Advanced **RTOS design patterns**
-- **Embedded Linux internals**
-- **Device drivers & low-level debugging**
-- **Industrial & Automotive protocols**
+- Advanced RTOS design patterns  
+- Embedded Linux internals  
+- Device drivers & low-level debugging  
 
 ---
 
 ## 🔍 Open to Roles
-✅ Embedded Software Engineer  
-✅ Firmware / RTOS Engineer  
+✅ Embedded Software / Firmware Engineer  
 ✅ Embedded Systems / Automation Engineer  
-
-📍 Open to **product-focused, hands-on engineering teams**
+✅ Firmware Test & Validation Roles  
 
 ---
 
@@ -116,5 +118,3 @@ I value **clean design, reliability, and ownership** over quick hacks.
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail"/>
   </a>
 </p>
-
-⭐ If you find my work interesting, feel free to explore or connect!
