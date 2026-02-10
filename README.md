@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="[https://user-images.githubusercontent.com/74038190/212284103-7a8c93c7-2b7c-4b2a-bcd3-3e40f7d8d2e4.gif](https://emojipedia.org/microsoft-teams/1.0/waving-hand)" width="35" />, I'm Shreyash Patil</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Shreyash Patil</h1>
 <h3 align="center">Embedded Systems Engineer | Programming • Microcontrollers • HW–SW Integration • Validation • Automation</h3>
 
 <p align="center">
