@@ -110,7 +110,7 @@ My work spans **firmware development, board-level testing and debugging, system 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="github-logo-transparent-png-11659780101agvzsukgqz.png" width="45" title="GitHub" style="margin: 0 12px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="download.png" width="120" title="Perforce" style="margin: 0 12px;"/>
+  <img src="perforce.png" width="120" title="Perforce" style="margin: 0 12px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="helix-swarm-vector-logo.png" width="185" title="HelixSwarm" style="margin: 0 12px;"/>
 </p>
