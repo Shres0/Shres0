@@ -115,10 +115,10 @@ My work spans **firmware development, board-level testing and debugging, system 
   <img src="helix-swarm-vector-logo.png" width="185" title="HelixSwarm" style="margin: 0 12px;"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-24292f?style=flat"/> • 
-  <img src="https://img.shields.io/badge/GitHub-30363d?style=flat"/> • 
-  <img src="https://img.shields.io/badge/Perforce-3d444d?style=flat"/> • 
-  <img src="https://img.shields.io/badge/Helix%20Swarm-57606a?style=flat"/>
+  <img src="https://img.shields.io/badge/Git--24292f?style=flat"/> • 
+  <img src="https://img.shields.io/badge/GitHub--30363d?style=flat"/> • 
+  <img src="https://img.shields.io/badge/Perforce--3d444d?style=flat"/> • 
+  <img src="https://img.shields.io/badge/Helix%20Swarm--57606a?style=flat"/>
 </p>
 
 ### 🔹 Development & Debugging
