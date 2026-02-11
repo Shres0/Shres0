@@ -77,9 +77,9 @@ My work spans **firmware development, board-level testing and debugging, system 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32-7c2d12?style=flat"/> • 
-  <img src="https://img.shields.io/badge/Arduino-92400e?style=flat"/> • 
-  <img src="https://img.shields.io/badge/BeagleBone%20Black-854d0e?style=flat"/>
+  <img src="https://img.shields.io/badge/STM32-ARM%20Cortex--M4-7c2d12?style=flat" /> •
+  <img src="https://img.shields.io/badge/Arduino-AVR-92400e?style=flat" /> • 
+  <img src="https://img.shields.io/badge/BeagleBone%20Black-ARM%20Cortex--A8-854d0e?style=flat" />
 </p>
 
 ---
@@ -202,6 +202,7 @@ My work spans **firmware development, board-level testing and debugging, system 
   <img src="https://img.shields.io/badge/Domain-Automotive%20%7C%20Industrial%20%7C%20Consumer Electronics%20%7C%20Medical%20%7C%20Aerospace-success"/>
   &nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20Microcontrollers%20%26%20Low--Level%20Systems%20%7C%20HW--SW%20Integration%20%26%20Debugging-f59e0b?style=flat-square"/>
+</p>
 
 ---
 
