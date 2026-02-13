@@ -27,6 +27,7 @@ Embedded Systems Engineer | Programming • Microcontrollers • HW–SW Integra
 ## 👨‍💻 About Me
 I am an **Embedded Systems Engineer** who enjoys working close to the hardware—writing **code**, understanding **microcontroller internals**, integrating, designing and debugging at the **board level**, automating, testing and validating systems end-to-end.
 My work spans **firmware development, board-level testing and debugging, system bring-up and validation**, with a strong emphasis on **reliability, clarity, and disciplined engineering practices**. I value structured problem-solving and enjoy contributing to systems that scale cleanly from prototype to production.
+Also with growing interest in semiconductor systems and VLSI design I'm currently exploring digital design and ASIC development fundamentals.
 
 ---
 
@@ -189,8 +190,7 @@ My work spans **firmware development, board-level testing and debugging, system 
 ## 🏆 Notable Achievements
 - 🥇 Outperformer – Embedded Systems & IoT Track, Technovation 2K24  
 - 🎓 First Class with Distinction – B.E. (Electronics & Telecommunication)  
-- 🎯 AIR 40 (Category III) – CDAC PreCAT (A+B+C)  
-- 🎯 AIR 440 (Category II) – CDAC PreCAT (A+B)  
+- 🎯 AIR 40 (Category III) – CDAC PreCAT (A+B+C) | AIR 440 (Category II) – CDAC PreCAT (A+B)  
 - 🏅 Gold Medalist – SilverZone International French Olympiad  
 
 ---
@@ -201,7 +201,7 @@ My work spans **firmware development, board-level testing and debugging, system 
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Domain-Automotive%20%7C%20Industrial%20%7C%20Consumer Electronics%20%7C%20Medical%20%7C%20Aerospace-success"/>
   &nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20Microcontrollers%20%26%20Low--Level%20Systems%20%7C%20HW--SW%20Integration%20%26%20Debugging-f59e0b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-%20Learn%20%7C%20Develop%20%7C%20Improve%20%7C%20Lead-f59e0b?style=flat-square"/>
 </p>
 
 ---
@@ -209,4 +209,4 @@ My work spans **firmware development, board-level testing and debugging, system 
 ## 🔍 Open to Roles
 - Embedded Software / Firmware Engineer  
 - Embedded Systems Engineer  
-- Firmware Test & Validation Engineer  
+- Firmware Test & Validation Engineer
