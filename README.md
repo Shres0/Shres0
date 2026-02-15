@@ -198,9 +198,9 @@ Also with growing interest in semiconductor systems and VLSI design I'm currentl
 ## 🏅 Engineering Focus
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Embedded%20Systems%20Engineer-blue"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Domain-Automotive%20%7C%20Industrial%20%7C%20Consumer Electronics%20%7C%20Medical%20%7C%20Aerospace-success"/>
-  &nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Focus-%20Learn%20%7C%20Develop%20%7C%20Improve%20%7C%20Lead-f59e0b?style=flat-square"/>
 </p>
 
